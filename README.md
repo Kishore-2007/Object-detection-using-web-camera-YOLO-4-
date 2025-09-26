@@ -6,6 +6,8 @@ In this project, I implemented real-time object detection using the YOLOv4 deep 
 
 Additionally, I captured a screenshot of the detected output and displayed it using Matplotlib for better visualization.
 
+Note : You need Some Files for executing YOLO 4 and detect motion objects using web camera , you can directly download the required files from the github repositry of YOLO v4 available in open source.
+
 ## Steps Performed :
 
 #### Setup Environment
